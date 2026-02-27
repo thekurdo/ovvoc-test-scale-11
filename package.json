@@ -2,6 +2,10 @@
   "name": "ovvoc-test-scale-11",
   "version": "1.0.0",
   "description": "Complex ESLint 8 config with 8 source files",
-  "scripts": { "test": "node test/lint-config.test.js" },
-  "devDependencies": { "eslint": "8.57.0" }
+  "scripts": {
+    "test": "node test/lint-config.test.js"
+  },
+  "devDependencies": {
+    "eslint": "9.17.0"
+  }
 }
